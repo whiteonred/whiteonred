@@ -43,8 +43,12 @@ A personal space to learn, experiment, and keep useful services under my own con
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Proxmox Backup Server](https://img.shields.io/badge/Proxmox_Backup_Server-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+
 
 
 **Self-hosted services / Уласныя сэрвісы**
@@ -75,9 +79,14 @@ A personal space to learn, experiment, and keep useful services under my own con
 I'm interested in connecting devices and services, reducing repetitive work, and building reliable workflows. My experiments are driven by real needs rather than automation for its own sake.
 Цікаўлюся інтэграцыяй прылад і сэрвісаў, скарачэннем руціннай працы і стварэннем надзейных сцэнарыяў. Аўтаматызую тое, што сапраўды прыносіць карысць, а не дзеля самой аўтаматызацыі.
 
+
 **AI & automation tools / AI і інструменты аўтаматызацыі**
 
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-475569?style=flat-square)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-475569?style=flat-square&logo=probot&logoColor=white)
+
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+
 
 **Areas of interest / Напрамкі цікавасці**  
 `Smart home` · `Service integrations` · `Event-driven workflows` · `Local-first tools`
@@ -86,7 +95,15 @@ I'm interested in connecting devices and services, reducing repetitive work, and
 
 **In use / Выкарыстоўваю**
 
+
+**In use / Выкарыстоўваю**
+
 ![ThinkPad](https://img.shields.io/badge/ThinkPad-E2231A?style=flat-square&logo=lenovo&logoColor=white)
+![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Logitech](https://img.shields.io/badge/Logitech-00B8FC?style=flat-square&logo=logitech&logoColor=white)
+![Logitech G](https://img.shields.io/badge/Logitech_G-00B8FC?style=flat-square&logo=logitechg&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 **Exploring next / У планах**
 
