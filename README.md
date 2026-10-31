@@ -47,16 +47,24 @@ A personal space to learn, experiment, and keep useful services under my own con
 
 **Self-hosted services / Уласныя сэрвісы**
 
+![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white)
+![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-F15833?style=flat-square&logo=nginxproxymanager&logoColor=white)
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
-![Termix](https://img.shields.io/badge/Termix-334155?style=flat-square)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=flat-square&logo=ghost&logoColor=white)
 ![SearXNG](https://img.shields.io/badge/SearXNG-3050FF?style=flat-square&logo=searxng&logoColor=white)
+![Mailcow](https://img.shields.io/badge/Mailcow-EE5586?style=flat-square&logoColor=white)
+![Termix](https://img.shields.io/badge/Termix-334155?style=flat-square)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square)
 ![CrowdSec](https://img.shields.io/badge/CrowdSec-6D28D9?style=flat-square)
+![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat-square&logo=qbittorrent&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logoColor=white)
+
 
 
 ### Automation / Аўтаматызацыя
