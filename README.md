@@ -10,7 +10,8 @@ Working with products serving 700K+ monthly active users
 Прадукты, працэсы і незалежная інфраструктура.
 
 [![Telegram](https://img.shields.io/badge/Telegram-whiteonred-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whiteonred)
-[![Discord](https://img.shields.io/badge/Discord-whiteonred-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/USER_ID)
+[![Discord](https://img.shields.io/badge/Discord-whiteonred-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/231838726781665290)
+
 
 
 
