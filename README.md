@@ -102,7 +102,6 @@ I'm interested in connecting devices and services, reducing repetitive work, and
 ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Logitech](https://img.shields.io/badge/Logitech-00B8FC?style=flat-square&logo=logitech&logoColor=white)
-![Logitech G](https://img.shields.io/badge/Logitech_G-00B8FC?style=flat-square&logo=logitechg&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 **Exploring next / У планах**
