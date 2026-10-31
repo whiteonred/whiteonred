@@ -47,8 +47,6 @@ A personal space to learn, experiment, and keep useful services under my own con
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Proxmox Backup Server](https://img.shields.io/badge/Proxmox_Backup_Server-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
-
 
 
 **Self-hosted services / Уласныя сэрвісы**
@@ -72,8 +70,6 @@ A personal space to learn, experiment, and keep useful services under my own con
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logo=linux&logoColor=white)
 
 
-
-
 ### Automation / Аўтаматызацыя
 
 I'm interested in connecting devices and services, reducing repetitive work, and building reliable workflows. My experiments are driven by real needs rather than automation for its own sake.
@@ -83,9 +79,9 @@ I'm interested in connecting devices and services, reducing repetitive work, and
 **AI & automation tools / AI і інструменты аўтаматызацыі**
 
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-475569?style=flat-square&logo=probot&logoColor=white)
-
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+
 
 
 **Areas of interest / Напрамкі цікавасці**  
