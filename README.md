@@ -44,6 +44,8 @@ A personal space to learn, experiment, and keep useful services under my own con
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Proxmox Backup Server](https://img.shields.io/badge/Proxmox_Backup_Server-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
 
 **Self-hosted services / Уласныя сэрвісы**
 
@@ -58,12 +60,13 @@ A personal space to learn, experiment, and keep useful services under my own con
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
 ![Ghost](https://img.shields.io/badge/Ghost-15171A?style=flat-square&logo=ghost&logoColor=white)
 ![SearXNG](https://img.shields.io/badge/SearXNG-3050FF?style=flat-square&logo=searxng&logoColor=white)
-![Mailcow](https://img.shields.io/badge/Mailcow-EE5586?style=flat-square&logoColor=white)
-![Termix](https://img.shields.io/badge/Termix-334155?style=flat-square)
-![Wazuh](https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-6D28D9?style=flat-square)
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?style=flat-square&logo=qbittorrent&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logoColor=white)
+![Mailcow](https://img.shields.io/badge/Mailcow-EE5586?style=flat-square&logo=gmail&logoColor=white)
+![Termix](https://img.shields.io/badge/Termix-334155?style=flat-square&logo=gnometerminal&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square&logo=securityscorecard&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-6D28D9?style=flat-square&logo=letsencrypt&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logo=linux&logoColor=white)
+
 
 
 
