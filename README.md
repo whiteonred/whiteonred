@@ -9,7 +9,11 @@ Working with products serving 700K+ monthly active users
 Працую з прадуктамі, якімі штомесяц актыўна карыстаюцца больш за 700 тысяч чалавек.
 Прадукты, працэсы і незалежная інфраструктура.
 
-[![GitHub](https://img.shields.io/badge/GitHub-whiteonred-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whiteonred)
+[![Telegram](https://img.shields.io/badge/Telegram-whiteonred-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whiteonred)
+[![Discord](https://img.shields.io/badge/Discord-whiteonred-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/USER_ID)
+
+
+
 
 </div>
 
