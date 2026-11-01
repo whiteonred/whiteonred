@@ -1,6 +1,6 @@
 <div align="center">
 
-# whiteonred
+# Ivan M.
 
 **Product Owner · Project Manager**  
 Working with products serving 700K+ monthly active users
@@ -88,9 +88,6 @@ I'm interested in connecting devices and services, reducing repetitive work, and
 `Smart home` · `Service integrations` · `Event-driven workflows` · `Local-first tools`
 
 ### Hardware & connectivity / Абсталяванне і сувязь
-
-**In use / Выкарыстоўваю**
-
 
 **In use / Выкарыстоўваю**
 
